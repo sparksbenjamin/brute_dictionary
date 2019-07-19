@@ -1,0 +1,7 @@
+_sip._tls
+sip
+msoid
+lyncdiscover
+_sipfederationtls._tcp
+_sipfederationtls
+_sip._tls
